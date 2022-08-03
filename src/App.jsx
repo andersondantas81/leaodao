@@ -216,7 +216,7 @@ const App = () => {
       <div className="landing">
         <h1>
           Bem-vind@s ao LEAODAO - a DAO do maior clube de futebol do Nordeste -
-          Fortaleza Esporte Clube
+          Fortaleza Esporte Clube 🇳🇱
         </h1>
         <button onClick={connectWithMetamask} className="btn-hero">
           Conecte sua carteira
@@ -230,7 +230,7 @@ const App = () => {
   if (hasClaimedNFT) {
     return (
       <div className="member-page">
-        <h1>🦁 Página dos membros da DAO</h1>
+        <h1>🦁 Página dos membros da DAO <>🇳🇱</></h1>
         <p>Parabéns por fazer parte desse clube - FEC !</p>
         <div>
           <div>
